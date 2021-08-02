@@ -1,3 +1,2 @@
 # CookingTest
-CookingTestProject
-状态模式练习
+状态模式
